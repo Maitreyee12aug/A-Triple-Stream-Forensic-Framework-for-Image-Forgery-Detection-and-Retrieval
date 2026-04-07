@@ -7,7 +7,7 @@
 ---
 
 > ⚠️ **Citation Notice:** This repository is the official implementation of
-> *"A Triple-Stream Forensic Framework for Image Forgery Detection and Retrieval"*
+> *"A Triple-Stream Forensic Framework for Image Forgery Detection and Retrieval"*, accepted for publication in the 1st International Conference on Computational Intelligence and Cyber Physical Systems (CICPS 2026).
 > (Maitreyee Ganguly, Paramita Dey, Soumik Pal — Government College of Engineering and Ceramic Technology, Kolkata).
 > If you use this code or build upon this work, please cite our paper using the BibTeX entry at the bottom of this README.
 
